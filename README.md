@@ -53,6 +53,13 @@ Developed a machine learning pipeline to detect fraudulent credit card transacti
 ### Dataset
 - Credit Card Fraud Detection Dataset
 - 284,807 transactions
+- The dataset is not included in this repository because of its large size.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` inside the `Project-2-Fraud-Detection-Pipeline` folder.
 
 ### Highlights
 - SMOTE for class balancing
